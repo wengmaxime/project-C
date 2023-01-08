@@ -1,0 +1,12 @@
+# ninja log v5
+2	115	6948283029212311	CMakeFiles/3.dir/SDL_src/SDL_error.c.obj	e121ef253544c6ec
+4	154	6948359698174053	CMakeFiles/3.dir/main.c.obj	abccecbded8992ab
+2	427	6948289690005782	CMakeFiles/3.dir/SDL_src/SDL_assert.c.obj	e8e7aa13a1e9ff4a
+31	130	6948283356998703	CMakeFiles/3.dir/SDL_src/SDL_hints.c.obj	47060ed31bb7275f
+3	158	6948273582164032	CMakeFiles/3.dir/SDL_include/SDL_error.c.obj	816926257f59ed7
+1	310	6948604170556343	build.ninja	e2d7c08f8426cfe8
+3	340	6948513724920290	3.exe	e688289aceb6b375
+3	1722	6948354528020288	CMakeFiles/3.dir/sqlite/shell.c.obj	9a7757bec05d02d2
+2	6056	6946311222681277	CMakeFiles/3.dir/sqlite/sqlite3.c.obj	41779fe46f540f3c
+35	430	6948281964799663	CMakeFiles/3.dir/SDL_src/SDL_dataqueue.c.obj	19ba2f5fa9a4b4b3
+28	488	6948284612316060	CMakeFiles/3.dir/SDL_src/SDL_log.c.obj	286505759348fb71
